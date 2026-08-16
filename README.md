@@ -1,6 +1,6 @@
 # Eks_project
 ![Uploading Screenshot 2026-08-16 171608.png…]()
-
+2048-deployapp.md/Screenshot 2026-08-16 171608.png
 # AWS EKS 
 
 ## Introduction
