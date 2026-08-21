@@ -1,6 +1,9 @@
+Deploying the 2048 game on a EKS Kubernetes cluster using AWS ALB, Ingress, Ingress Controller, NodePort Service, and 5 application replicas.
+
 # Eks_project
 
-![Uploading Screenshot 2026-08-16 171608.png…]()
+<img width="1359" height="764" alt="Screenshot 2026-08-16 171608" src="https://github.com/user-attachments/assets/e1310703-eef8-4167-a9e2-37748c3d22c0" />.
+
 
 # AWS EKS 
 
